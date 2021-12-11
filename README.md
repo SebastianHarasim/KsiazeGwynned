@@ -39,7 +39,7 @@ Za pomocą, których może rekrutować wojska oraz ulepszać budowle.
 ## Usage
  Program został stworzony jednynie w celu rozrowykowym.  
  
-##
+## Authors
 * https://github.com/SebastianHarasim
 * https://github.com/DominikGwizdala
 * https://github.com/AndrzejKuchta
