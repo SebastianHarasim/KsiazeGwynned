@@ -12,9 +12,9 @@ Gracz zaczyna w osadzie i może udać się do jednego z pięciu miejsc:
 Celem gry jest obrona przed przeciwnikiem(komputer),który zaatakuje kilku krotnie po upływie określonego czasu.
 
 Gracz operuję trzema rodzajami surowców:
-* drewno
-* kamień 
-* metal
+* Drewno
+* Kamień 
+* Metal
  
 Za pomocą, których może rekrutować wojska oraz ulepszać budowle.
 
