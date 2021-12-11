@@ -1,6 +1,9 @@
 # KsiazeGwynned
+KsiazyGwynned to gra strategiczna (ekonomiczna).
+Zgromadz odpowiedznia ilośc wojsk, aby odeprzeć ataki wroga.
+
 ## General Information
-KsiazyGwynned to gra strategiczna (ekonomiczna). 
+
 
 Gracz zaczyna w osadzie i może udać się do jednego z pięciu miejsc:
 * Ratusz: Służy do ulepszania budowli
