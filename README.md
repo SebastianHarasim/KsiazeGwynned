@@ -5,7 +5,7 @@ Zgromadz odpowiedznia ilośc wojsk, aby odeprzeć ataki wroga.
 ## General Information
 
 
-Graczeeeeeee zaczyna w osadzie i może udać się do jednego z pięciu miejsc:
+Gracze zaczyna w osadzie i może udać się do jednego z pięciu miejsc:
 * Ratusz: Służy do ulepszania budowli
 * Koszary: Służy do rekrutowania jednostek
 * Tartak: Służy do wydobywania drewna
