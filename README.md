@@ -1,5 +1,6 @@
 # KsiazeGwynned
 KsiazyGwynned to gra strategiczna (ekonomiczna).
+
 Zgromadz odpowiedznia ilośc wojsk, aby odeprzeć ataki wroga.
 
 ## General Information
