@@ -35,8 +35,10 @@ Za pomocą, których może rekrutować wojska oraz ulepszać budowle.
 ## Setup
  W celu uruchomienia aplikacji należy uruchomić plik "KsiazeGwynned.exe",  
  lub uruchomić plik "KsiazeGwynned.sln" i uruchomienie z poziomu programu Visual Studio 2019.
+ 
 ## Usage
+ Program został stworzony jednynie w celu rozrowykowym.  
+ 
 
-## Sources
 
 
