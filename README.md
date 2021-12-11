@@ -2,14 +2,14 @@
 ## General Information
  Gra-strategiczna(ekonomiczna).Gracz zaczyna w osadzie i może udać się do jednego z pięciu miejsc:
 Ratusz: Służy do ulepszania budowli
-*Koszary: Służy do rekrutowania jednostek
-*Tartak: Służy do wydobywania drewna
-*Kamieniołom: Służy do wydobywania kamienia
-8Kopalnia: Służy do wydobywania metalu
+* Koszary: Służy do rekrutowania jednostek
+* Tartak: Służy do wydobywania drewna
+* Kamieniołom: Służy do wydobywania kamienia
+Kopalnia: Służy do wydobywania metalu
 Celem gry jest obrona przed przeciwnikiem(komputer),który zaatakuje kilku krotnie po upływie określonego czasu. Gracz operuję trzema rodzajami surowców:
-*drewno
-*kamień 
-*metal
+* drewno
+* kamień 
+* metal
 Za pomocą, których może rekrutować wojska oraz ulepszać budowle
 
 ## Technology 
